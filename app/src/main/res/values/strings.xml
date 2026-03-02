@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="error_divide_by_zero">Error</string>
+</resources>
