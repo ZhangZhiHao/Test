@@ -8,6 +8,10 @@
         android:theme="@style/Theme.SimpleCalculator">
         <activity
             android:name=".MainActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".ServiceCenterActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
